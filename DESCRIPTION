@@ -1,0 +1,11 @@
+Package: DeadCanMove
+Type: Package
+Title: Assess How Spatial Roadkill Patterns Change with Temporal Sampling Scheme
+Version: 0.5
+Date: 2017-03-28
+Author: Barbosa A.M., Marques J.T., Santos S.M., Lourenco A., Medinas D., Beja P., Mira A.
+Maintainer: A. Marcia Barbosa <barbosa@uevora.pt>
+Suggests: carcass
+Description: From a baseline data frame of dead individuals recorded daily at different road stretches, simulate varying sub-sampling schemes, calculate and compare roadkill patterns and hotspots based on each sampling scheme.
+Acknowledgements: We thank Bruno Silva and Manuel Spinola for improvement suggestions, and Almir Figueiredo for bug reporting.
+License: GPL-3

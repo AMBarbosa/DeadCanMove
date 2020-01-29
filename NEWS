@@ -1,0 +1,27 @@
+==========================================
+DeadCanMove v0.5 (committed 28/03/2017)
+==========================================
+
+Added 'n.events.column' argument to 'hotspots' function
+
+
+==========================================
+DeadCanMove v0.4 (committed 22/04/2016)
+==========================================
+
+Added function sequential.posteriorN
+
+
+==========================================
+DeadCanMove v0.3 (committed 04/09/2015)
+==========================================
+
+Fixed bug caused by secondary effects of previous pkg update
+(interval vs gap size + window size)
+
+
+==========================================
+DeadCanMove v0.2
+==========================================
+
+Updates to allow for more flexible sampling schemes (gap size + window size)
